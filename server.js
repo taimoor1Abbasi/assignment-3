@@ -7,7 +7,7 @@
 *
 *  Cyclic Web App URL: https://ill-puce-mackerel-veil.cyclic.app/about
 *
-*  GitHub Repository URL: https://github.com/taimoor1Abbasi/web322.app
+*  GitHub Repository URL: https://github.com/taimoor1Abbasi/assignment-3
 *
 ********************************************************************************/ 
 var express = require("express");
